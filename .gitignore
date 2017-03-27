@@ -45,3 +45,12 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+#ignore webstorm directory
+.idea/
+
+#ignore bower componentes
+bower_components/
+
+#ignoring node modules
+node_modules/
