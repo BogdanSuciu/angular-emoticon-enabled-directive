@@ -49,8 +49,12 @@ Temporary Items
 #ignore webstorm directory
 .idea/
 
-#ignore bower componentes
+#ignore bower components
 bower_components/
+dist/libs/
 
 #ignoring node modules
 node_modules/
+
+#ignoring npm debug
+npm-debug.log

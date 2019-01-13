@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="angularApp">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body ng-controller="appController">
+
+    <div ng-bind="message.value" chat-icons="message"></div>
+    {{message.value}}
+    <script src="libs/angular/angular.min.js"></script>
+    <script src="app.js"></script>
+    <script src="app.controller.js"></script>
+    <script src="directives/chat-icons-directive/chat-icons-directive.js"></script>
+</body>
+</html>

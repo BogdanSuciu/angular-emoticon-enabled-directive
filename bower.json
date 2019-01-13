@@ -1,7 +1,7 @@
 {
   "name": "angular-emoticon-enabled-directive",
   "description": "a directive that creates a contenteditable div and replaces text with emoticons as the user types",
-  "main": "app.js",
+  "main": "server.js",
   "authors": [
     "Bogdan Suciu"
   ],
